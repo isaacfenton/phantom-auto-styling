@@ -6,7 +6,7 @@ Phantom Auto Styling is a premium mobile detailing brand I built from scratch. T
 
 ---
 
-## 🔹 Website Goals:
+## Website Goals:
 - Attract local Utah customers
 - Showcase detailing packages with clean visuals
 - Collect leads via forms and social media
@@ -14,7 +14,7 @@ Phantom Auto Styling is a premium mobile detailing brand I built from scratch. T
 
 ---
 
-## 🔧 Tech Stack:
+## Tech Stack:
 - HTML, CSS, JavaScript (planned rebuild)
 - Currently hosted on Squarespace
 - Embedded JotForm for Pre-Inspection forms
@@ -22,18 +22,18 @@ Phantom Auto Styling is a premium mobile detailing brand I built from scratch. T
 
 ---
 
-## 🖼️ Visuals:
+## Visuals:
 ![Home Screenshot](./screenshots/home.png)
 ![Before & After](./screenshots/before-after.png)
 
 ---
 
-## 📈 Marketing Highlights:
+## Marketing Highlights:
 - Local SEO optimized content
 - Social proof with Google reviews
 - Used Instagram & TikTok to build credibility
 
 ---
 
-## 🚀 Live Site:
+## Live Site:
 [www.phantomautostyling.com](https://www.phantomautostyling.com)
